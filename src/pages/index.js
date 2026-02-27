@@ -7,10 +7,10 @@ import EditChannel from "./EditChannel";
 import History from "./History";
 import HomePage from "./HomePage";
 import LikedVideos from "./LikedVideos";
-import MySubscriptions from "./MySubscriptions";
+import MySubscriptions from "./MySubscription.jsx";
 import VideoDetail from "./VideoDetail";
 import SearchVideos from "./SearchVideos";
-import TermsAndConditions from "./TermsAndConditions ";
+import TermsAndConditions from "./TermsAndConditions.jsx";
 import ChannelPlaylist from "./Channel/ChannelPlaylist";
 
 export {
